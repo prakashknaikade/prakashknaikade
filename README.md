@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prakash Naikade
 - 👀 I’m interested in Computer Vision and Machine Learning.
-- 🌱 I’m currently learning Deep Learning Techniques used in computer vision.
+- 🌱 I’m currently learning different Deep Learning Techniques used in various Computer Vision Problems.
 
 <!---
 prakashknaikade/prakashknaikade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
