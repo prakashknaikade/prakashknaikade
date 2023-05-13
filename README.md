@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prakash Naikade
-- 👀 I’m interested in Computer Vision and Machine Learning.
+- 👀 My research interests span in the broad areas of 3D-Reconstruction, Neural Rendering, Motion Capture, Generative Models, Animation, AR, VR, and generally Computer Graphics, Computer Vision, & Deep Learning to solve the real-world problems with impactful solutions for VFX, Gaming and Entertainment Industry.
 - 🌱 I’m currently exploring different Deep Learning Techniques used in various Computer Vision Problems.
 
 <!---
