@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prakash Naikade
 - 👀 My research interests span in the broad areas of Neural Rendering, Radiance Field Methods, Novel View Synthesis, Motion Capture, 3D-Reconstruction, Digital Twins, AR/VR, Generative AI, LLMs, and generally Computer Vision, Computer Graphics, Deep/Machine Learning, HCI & Data Science, to solve the real world problems with impactful AI aided solutions.
-- 👨‍💻 I’m currently exploring different Deep Learning Techniques used in various Computer Vision and GenAI Problems.
+- 👨‍💻 I generally explore different Deep Learning Techniques used in various Computer Vision and GenAI Problems.
 - 🌱 Currently driving XRAI4AEC towards sustainability.
 <!---
 prakashknaikade/prakashknaikade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
